@@ -1,0 +1,37 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+
+.container{
+    width: 650px;
+    margin: 10 auto;
+    
+  
+ 
+}
+
+body{
+    background:url(../img/Bg.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.login-section{
+    element.style {
+        background: brown;
+    }
+}
+
+.login-section img{
+    width: 200px;
+    margin: 0px auto;
+    display: block;
+}
+}
+
+.login-section h2{
+    text-align: center;
+
+}
